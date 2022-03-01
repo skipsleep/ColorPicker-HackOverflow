@@ -68,6 +68,7 @@ header #target {
     border: 10px solid white;
   border-radius:15px;
     flex-grow: 1;
+    color:white;
     /* border-color: white; */
 }
 .level {
