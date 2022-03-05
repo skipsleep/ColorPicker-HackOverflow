@@ -102,7 +102,7 @@ header #target {
 #playArea > * {
     background-color: blue;
     border-radius: 1em;
-    
+    transition: all 0.3s linear;
 }
 #selector li:hover {
     background-color: greenyellow;
